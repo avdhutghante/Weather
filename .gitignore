@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# React
+node_modules/
+build/
+.DS_Store
+npm-debug.log*
